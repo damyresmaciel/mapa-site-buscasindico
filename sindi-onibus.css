@@ -1,0 +1,67 @@
+body{
+    font-family: 'Gelasio', serif;
+    margin:0px;
+   
+}
+.cabecalho{
+    background-color:white;
+    color: black;
+    padding: 10px;
+    margin: 0px;
+   
+}
+.principal{
+    background-color: black; 
+    color:white;
+    padding: 10px;
+}
+.links{
+    background-color: white;
+    color:black
+}
+.mensagem{
+   background-color:white; 
+}
+.background-black{
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-top: 10px;
+}
+a .background-black{
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.paragrafo{
+    text-align: center;
+}
+.title{
+   text-align: center; 
+   margin-top: 30px;
+}
+.btn{
+    background-color: yellow;
+    padding-left: 1rem;
+    padding-top: 1.8rem;
+    padding-right: 1rem;
+    padding-bottom: 0.8rem;
+    border-radius: 50px;
+    margin-left: 3px;
+    margin-right: 3px;
+    
+}
+    
+.redesocial{
+    width: 8px;
+    height: 2px;
+}
+#redes-sociais{
+   margin-bottom: 20px; 
+}
+
+.rede-social{
+    width: 32px;
+    height: 32px;
+}
